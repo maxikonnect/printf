@@ -1,8 +1,8 @@
-Introducing the Enhanced PrintX Function - Designed by Abradu Frimpong Kwame and Kingjerry Adedayo for Alx Software Engineering School.
+Introducing the Enhanced PrintX Function - Designed by Abradu Frimpong Kwame and Oludayo Adedayo for Alx Software Engineering School.
 
 #Welcome
 
-We proudly present the PrintX function - a powerful enhancement of the standard printf in C. Developed by the ingenious minds of Abradu Frimpong Kwame and Kingjerry Adedayo during our time at Alx Software Engineering School, this function offers remarkable capabilities for printing with %d, %c, %s, and %% specifiers to the standard output. Our mission was to create a versatile printf implementation that exceeds expectations.
+We proudly present the PrintX function - a powerful enhancement of the standard printf in C. Developed by the ingenious minds of Abradu Frimpong Kwame and Oludayo Adedayo during our time at Alx Software Engineering School, this function offers remarkable capabilities for printing with %d, %c, %s, and %% specifiers to the standard output. Our mission was to create a versatile printf implementation that exceeds expectations.
 
 #Format Specifiers
 
@@ -82,4 +82,4 @@ va_arg (man 3 va_arg)
 Joining forces, we proudly present ourselves as the creators of this exceptional PrintX function:
 
 Abradu Frimpong Kwame
-Kingjerry Adedayo
+Oludayo Adedayo
